@@ -1,0 +1,8 @@
+.bg {
+  background-color: black;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.fix-size {
+  margin: 100px 330px 0;
+}
